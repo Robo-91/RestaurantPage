@@ -2,24 +2,18 @@
 
 ## Description
 
-This page was created for learning purposes only. It is part of The Odin Project Curriculum. I made this page to learn how modules are implemented in Javascript. This web page uses Webpack, and everything (aside from a div with an id of content) was created dynamically with Javascript.
+This page was created for learning purposes only. It is part of The Odin Project Curriculum. I made this page to learn how modules are implemented in Javascript. This web page uses Webpack, and everything (aside from a div with an id of content) was created dynamically with Javascript. Images were taken from Unsplash.com.
 
 ## Technologies Used
 
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+* Webpack
+* Javascript
 
 ## Features
 
 List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
-
-To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+* Use of Javascript to dynamically create each web page.
+* Use of Webpack for import/exporting to different js files.
 
 ## Getting Started
    
