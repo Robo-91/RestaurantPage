@@ -18,14 +18,18 @@ List of features ready and TODOs for future development
 
 ## Getting Started
    
-(include git clone command)
-(include all environment setup steps)
+Ensure that you have a Text Editor Installed (Visual Studio Code, Sublime Text Editor, etc)
 
-> Be sure to include BOTH Windows and Unix command  
-> Be sure to mention if the commands only work on a specific platform (eg. AWS, GCP)
+In your terminal or command prompt, navigate to the directory that you want to clone the repository in.
+(Note that you'll need git bash installed if you're using command prompt/windows)
 
-- All the `code` required to get started
-- Images of what it should look like
+Use the following command:
+
+> git clone https://github.com/Robo-91/RestaurantPage.git
+
+To Switch branches:
+
+> git switch nameofbranch
 
 ## Usage
 
