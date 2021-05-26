@@ -8,6 +8,7 @@ This page was created for learning purposes only. It is part of The Odin Project
 
 * Webpack
 * Javascript
+* HTML
 
 ## Features
 
